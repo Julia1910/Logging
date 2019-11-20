@@ -1,0 +1,3 @@
+[WARN ] 2019-11-20 14:10:12.042 Application:12 - This is a warn message 
+[ERROR] 2019-11-20 14:10:12.045 Application:13 - This is an error message 
+[FATAL] 2019-11-20 14:10:12.046 Application:14 - This is a fatal message 
