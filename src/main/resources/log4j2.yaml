@@ -94,7 +94,7 @@ Configuration:
       smtpPort: 465
       smtpProtocol: smtps
       smtpUsername: "ulcakopitko@gmail.com"
-      smtpPassword: "Juli4ka19K"
+      smtpPassword: "PASHALOH"
       bufferSize: 512
       HTMLLayout:
         charset: "UTF-8"
